@@ -3,7 +3,7 @@
 namespace Encore\Admin\Auth\Database;
 
 use Encore\Admin\Traits\DefaultDatetimeFormat;
-use Illuminate\Database\Eloquent\Model;
+use Jenssegers\Mongodb\Eloquent\Model;
 use Illuminate\Database\Eloquent\Relations\BelongsToMany;
 
 class Role extends Model

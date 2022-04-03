@@ -3,7 +3,7 @@
 namespace Encore\Admin;
 
 use Encore\Admin\Auth\Database\Permission;
-use Illuminate\Database\Eloquent\Model;
+use Jenssegers\Mongodb\Eloquent\Model;
 use Illuminate\Support\Arr;
 use Illuminate\Support\Facades\Config;
 use Illuminate\Support\Facades\DB;
