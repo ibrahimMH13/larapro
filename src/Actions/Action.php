@@ -1,9 +1,9 @@
 <?php
 
-namespace ibrhaim13\Admin\Actions;
+namespace Ibrhaim13\Admin\Actions;
 
-use ibrhaim13\Admin\Admin;
-use ibrhaim13\Admin\Form\Field;
+use Ibrhaim13\Admin\Admin;
+use Ibrhaim13\Admin\Form\Field;
 use Illuminate\Contracts\Support\Renderable;
 use Illuminate\Http\Request;
 

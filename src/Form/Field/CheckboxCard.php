@@ -1,8 +1,8 @@
 <?php
 
-namespace Encore\Admin\Form\Field;
+namespace Ibrhaim13\Admin\Form\Field;
 
-use Encore\Admin\Admin;
+use Ibrhaim13\Admin\Admin;
 
 class CheckboxCard extends CheckboxButton
 {

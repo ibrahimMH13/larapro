@@ -1,8 +1,8 @@
 <?php
 
-namespace Encore\Admin\Grid\Actions;
+namespace Ibrhaim13\Admin\Grid\Actions;
 
-use Encore\Admin\Actions\RowAction;
+use Ibrhaim13\Admin\Actions\RowAction;
 
 class Show extends RowAction
 {

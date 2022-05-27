@@ -1,8 +1,8 @@
 <?php
 
-namespace ibrhaim13\Admin\Actions;
+namespace Ibrhaim13\Admin\Actions;
 
-use ibrhaim13\Admin\Grid;
+use Ibrhaim13\Admin\Grid;
 use Illuminate\Database\Eloquent\SoftDeletes;
 use Illuminate\Http\Request;
 

@@ -1,6 +1,6 @@
 <?php
 
-namespace ibrhaim13\Admin\Actions;
+namespace Ibrhaim13\Admin\Actions;
 
 use Illuminate\Http\Request;
 

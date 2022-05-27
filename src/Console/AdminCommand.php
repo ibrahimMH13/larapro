@@ -1,8 +1,8 @@
 <?php
 
-namespace ibrhaim13\Admin\Console;
+namespace Ibrhaim13\Admin\Console;
 
-use ibrhaim13\Admin\Admin;
+use Ibrhaim13\Admin\Admin;
 use Illuminate\Console\Command;
 use Illuminate\Support\Facades\Artisan;
 use Illuminate\Support\Str;

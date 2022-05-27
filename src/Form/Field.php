@@ -1,11 +1,11 @@
 <?php
 
-namespace Encore\Admin\Form;
+namespace Ibrhaim13\Admin\Form;
 
 use Closure;
-use Encore\Admin\Admin;
-use Encore\Admin\Form;
-use Encore\Admin\Widgets\Form as WidgetForm;
+use Ibrhaim13\Admin\Admin;
+use Ibrhaim13\Admin\Form;
+use Ibrhaim13\Admin\Widgets\Form as WidgetForm;
 use Illuminate\Contracts\Support\Arrayable;
 use Illuminate\Contracts\Support\Renderable;
 use Illuminate\Support\Arr;

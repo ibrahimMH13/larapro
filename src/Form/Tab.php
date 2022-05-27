@@ -2,7 +2,7 @@
 
 namespace Encore\Admin\Form;
 
-use Encore\Admin\Form;
+use Ibrhaim13\Admin\Form;
 use Illuminate\Support\Collection;
 
 class Tab

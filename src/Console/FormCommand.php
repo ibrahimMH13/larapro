@@ -1,6 +1,6 @@
 <?php
 
-namespace ibrhaim13\Admin\Console;
+namespace Ibrhaim13\Admin\Console;
 
 use Illuminate\Console\GeneratorCommand;
 

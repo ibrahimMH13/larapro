@@ -1,9 +1,9 @@
 <?php
 
-namespace Encore\Admin\Grid\Concerns;
+namespace Ibrhaim13\Admin\Grid\Concerns;
 
 use Closure;
-use Encore\Admin\Grid;
+use Ibrhaim13\Admin\Grid;
 
 trait HasActions
 {

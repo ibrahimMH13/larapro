@@ -1,6 +1,6 @@
 <?php
 
-namespace Encore\Admin\Layout;
+namespace Ibrhaim13\Admin\Layout;
 
 interface Buildable
 {

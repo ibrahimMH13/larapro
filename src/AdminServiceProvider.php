@@ -1,8 +1,8 @@
 <?php
 
-namespace ibrhaim13\Admin;
+namespace Ibrhaim13\Admin;
 
-use ibrhaim13\Admin\Layout\Content;
+use Ibrhaim13\Admin\Layout\Content;
 use Illuminate\Routing\Router;
 use Illuminate\Support\Arr;
 use Illuminate\Support\Str;
@@ -85,7 +85,7 @@ class AdminServiceProvider extends ServiceProvider
         $this->compatibleBlade();
 
         Blade::directive('box', function ($title) {
-            return "<?php \$box = new \ibrhaim13\Admin\Widgets\Box({$title}, '";
+            return "<?php \$box = new \Ibrhaim13\Admin\Widgets\Box({$title}, '";
         });
 
         Blade::directive('endbox', function ($expression) {

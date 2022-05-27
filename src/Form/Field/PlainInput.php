@@ -1,6 +1,6 @@
 <?php
 
-namespace Encore\Admin\Form\Field;
+namespace Ibrhaim13\Admin\Form\Field;
 
 trait PlainInput
 {

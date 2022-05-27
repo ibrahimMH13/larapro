@@ -1,9 +1,9 @@
 <?php
 
-namespace ibrhaim13\Admin\Auth;
+namespace Ibrhaim13\Admin\Auth;
 
-use ibrhaim13\Admin\Facades\Admin;
-use ibrhaim13\Admin\Middleware\Pjax;
+use Ibrhaim13\Admin\Facades\Admin;
+use Ibrhaim13\Admin\Middleware\Pjax;
 
 class Permission
 {

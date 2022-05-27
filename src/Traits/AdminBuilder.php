@@ -2,9 +2,9 @@
 
 namespace Ibrhaim13\Admin\Traits;
 
-use Encore\Admin\Form;
-use Encore\Admin\Grid;
-use Encore\Admin\Tree;
+use Ibrhaim13\Admin\Form;
+use Ibrhaim13\Admin\Grid;
+use Ibrhaim13\Admin\Tree;
 
 /**
  * @deprecated

@@ -1,8 +1,8 @@
 <?php
 
-namespace ibrhaim13\Admin\Actions;
+namespace Ibrhaim13\Admin\Actions;
 
-use ibrhaim13\Admin\Facades\Admin;
+use Ibrhaim13\Admin\Facades\Admin;
 use Illuminate\Database\Eloquent\Collection;
 use Illuminate\Database\Eloquent\Model;
 

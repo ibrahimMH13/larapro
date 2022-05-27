@@ -1,6 +1,6 @@
 <?php
 
-namespace ibrhaim13\Admin\Actions\Interactor;
+namespace Ibrhaim13\Admin\Actions\Interactor;
 
 use Ibrhaim13\Admin\Admin;
 

@@ -1,8 +1,8 @@
 <?php
 
-namespace Encore\Admin\Grid\Filter\Layout;
+namespace Ibrhaim13\Admin\Grid\Filter\Layout;
 
-use Encore\Admin\Grid\Filter;
+use Ibrhaim13\Admin\Grid\Filter;
 use Illuminate\Support\Collection;
 
 class Layout

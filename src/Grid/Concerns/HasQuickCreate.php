@@ -1,8 +1,8 @@
 <?php
 
-namespace Encore\Admin\Grid\Concerns;
+namespace Ibrhaim13\Admin\Grid\Concerns;
 
-use Encore\Admin\Grid\Tools\QuickCreate;
+use Ibrhaim13\Admin\Grid\Tools\QuickCreate;
 
 trait HasQuickCreate
 {

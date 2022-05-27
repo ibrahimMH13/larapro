@@ -1,8 +1,8 @@
 <?php
 
-namespace Encore\Admin\Traits;
+namespace Ibrhaim13\Admin\Traits;
 
-use Encore\Admin\Grid\Model as GridModel;
+use Ibrhaim13\Admin\Grid\Model as GridModel;
 
 trait ShouldSnakeAttributes
 {

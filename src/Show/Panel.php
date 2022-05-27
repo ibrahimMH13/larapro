@@ -1,8 +1,8 @@
 <?php
 
-namespace Encore\Admin\Show;
+namespace Ibrhaim13\Admin\Show;
 
-use Encore\Admin\Show;
+use Ibrhaim13\Admin\Show;
 use Illuminate\Contracts\Support\Renderable;
 use Illuminate\Support\Collection;
 

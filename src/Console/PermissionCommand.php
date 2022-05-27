@@ -1,8 +1,8 @@
 <?php
 
-namespace ibrhaim13\Admin\Console;
+namespace Ibrhaim13\Admin\Console;
 
-use ibrhaim13\Admin\Auth\Database\Permission;
+use Ibrhaim13\Admin\Auth\Database\Permission;
 use Illuminate\Console\Command;
 use Illuminate\Support\Facades\DB;
 use Illuminate\Support\Str;

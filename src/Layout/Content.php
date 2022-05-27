@@ -1,9 +1,9 @@
 <?php
 
-namespace Encore\Admin\Layout;
+namespace Ibrhaim13\Admin\Layout;
 
 use Closure;
-use Encore\Admin\Facades\Admin;
+use Ibrhaim13\Admin\Facades\Admin;
 use Illuminate\Contracts\Support\Renderable;
 use Illuminate\Support\Arr;
 

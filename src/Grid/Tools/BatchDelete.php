@@ -1,6 +1,6 @@
 <?php
 
-namespace Encore\Admin\Grid\Tools;
+namespace Ibrhaim13\Admin\Grid\Tools;
 
 class BatchDelete extends BatchAction
 {

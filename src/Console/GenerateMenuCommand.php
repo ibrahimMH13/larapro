@@ -2,7 +2,7 @@
 
 namespace ibrhaim13\Admin\Console;
 
-use ibrhaim13\Admin\Auth\Database\Menu;
+use Ibrhaim13\Admin\Auth\Database\Menu;
 use Illuminate\Console\Command;
 use Illuminate\Routing\Route;
 use Illuminate\Routing\Router;

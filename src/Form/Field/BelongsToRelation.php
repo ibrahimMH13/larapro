@@ -1,9 +1,9 @@
 <?php
 
-namespace Encore\Admin\Form\Field;
+namespace Ibrhaim13\Admin\Form\Field;
 
-use Encore\Admin\Admin;
-use Encore\Admin\Grid\Selectable;
+use Ibrhaim13\Admin\Admin;
+use Ibrhaim13\Admin\Grid\Selectable;
 
 trait BelongsToRelation
 {
@@ -37,7 +37,7 @@ trait BelongsToRelation
     {
         if (!class_exists($selectable) || !is_subclass_of($selectable, Selectable::class)) {
             throw new \InvalidArgumentException(
-                "[Class [{$selectable}] must be a sub class of Encore\Admin\Grid\Selectable"
+                "[Class [{$selectable}] must be a sub class of Ibrhaim13\Admin\Grid\Selectable"
             );
         }
 
@@ -143,7 +143,7 @@ STYLE;
     }
 
     /**
-     * @return \Encore\Admin\Grid
+     * @return \Ibrhaim13\Admin\Grid
      */
     protected function makeGrid()
     {

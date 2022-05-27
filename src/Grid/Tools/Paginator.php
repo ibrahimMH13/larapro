@@ -1,8 +1,8 @@
 <?php
 
-namespace Encore\Admin\Grid\Tools;
+namespace Ibrhaim13\Admin\Grid\Tools;
 
-use Encore\Admin\Grid;
+use Ibrhaim13\Admin\Grid;
 use Illuminate\Pagination\LengthAwarePaginator;
 
 class Paginator extends AbstractTool

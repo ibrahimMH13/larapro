@@ -1,9 +1,9 @@
 <?php
 
-namespace Encore\Admin\Grid\Column;
+namespace Ibrhaim13\Admin\Grid\Column;
 
-use Encore\Admin\Admin;
-use Encore\Admin\Grid\Model;
+use Ibrhaim13\Admin\Admin;
+use Ibrhaim13\Admin\Grid\Model;
 
 class InputFilter extends Filter
 {

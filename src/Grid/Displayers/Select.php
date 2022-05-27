@@ -1,8 +1,8 @@
 <?php
 
-namespace Encore\Admin\Grid\Displayers;
+namespace Ibrhaim13\Admin\Grid\Displayers;
 
-use Encore\Admin\Admin;
+use Ibrhaim13\Admin\Admin;
 use Illuminate\Support\Arr;
 
 class Select extends AbstractDisplayer
