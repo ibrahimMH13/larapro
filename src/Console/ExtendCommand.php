@@ -1,6 +1,6 @@
 <?php
 
-namespace Encore\Admin\Console;
+namespace ibrhaim13\Admin\Console;
 
 use Illuminate\Console\Command;
 use Illuminate\Filesystem\Filesystem;

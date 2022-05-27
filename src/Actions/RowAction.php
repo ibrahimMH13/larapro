@@ -1,8 +1,8 @@
 <?php
 
-namespace Encore\Admin\Actions;
+namespace ibrhaim13\Admin\Actions;
 
-use Encore\Admin\Grid\Column;
+use ibrhaim13\Admin\Grid\Column;
 use Illuminate\Http\Request;
 
 abstract class RowAction extends GridAction

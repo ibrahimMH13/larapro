@@ -1,6 +1,6 @@
 <?php
 
-namespace Encore\Admin\Actions\Interactor;
+namespace ibrhaim13\Admin\Actions\Interactor;
 
 use Encore\Admin\Actions\RowAction;
 use Encore\Admin\Admin;

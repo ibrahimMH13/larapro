@@ -1,8 +1,8 @@
 <?php
 
-namespace Encore\Admin\Controllers;
+namespace Ibrhaim13\Admin\Controllers;
 
-use Encore\Admin\Layout\Content;
+use Ibrhaim13\Admin\Layout\Content;
 use Illuminate\Routing\Controller;
 
 class AdminController extends Controller

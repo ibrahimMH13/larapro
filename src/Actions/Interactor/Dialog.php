@@ -1,8 +1,8 @@
 <?php
 
-namespace Encore\Admin\Actions\Interactor;
+namespace ibrhaim13\Admin\Actions\Interactor;
 
-use Encore\Admin\Admin;
+use Ibrhaim13\Admin\Admin;
 
 class Dialog extends Interactor
 {

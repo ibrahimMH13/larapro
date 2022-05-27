@@ -1,12 +1,12 @@
 <?php
 
-namespace Encore\Admin;
+namespace Ibrhaim13\Admin;
 
-use Encore\Admin\Show\Divider;
-use Encore\Admin\Show\Field;
-use Encore\Admin\Show\Panel;
-use Encore\Admin\Show\Relation;
-use Encore\Admin\Traits\ShouldSnakeAttributes;
+use Ibrhaim13\Admin\Show\Divider;
+use Ibrhaim13\Admin\Show\Field;
+use Ibrhaim13\Admin\Show\Panel;
+use Ibrhaim13\Admin\Show\Relation;
+use Ibrhaim13\Admin\Traits\ShouldSnakeAttributes;
 use Illuminate\Contracts\Support\Renderable;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\Relations\BelongsTo;

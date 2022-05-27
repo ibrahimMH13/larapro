@@ -6,7 +6,7 @@
             <strong>Env</strong>&nbsp;&nbsp; {!! config('app.env') !!}
         @endif
         @if(config('admin.show_version'))
-        <strong>Version</strong>&nbsp;&nbsp; {!! \Encore\Admin\Admin::VERSION !!}
+        <strong>Version</strong>&nbsp;&nbsp; {!! \Ibrhaim13\Admin\Admin::VERSION !!}
         @endif
 
     </div>

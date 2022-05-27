@@ -2,7 +2,7 @@
 
 namespace Tests\Models;
 
-use Encore\Admin\Traits\ModelTree;
+use Ibrhaim13\Admin\Traits\ModelTree;
 use Illuminate\Database\Eloquent\Model;
 
 class Tree extends Model

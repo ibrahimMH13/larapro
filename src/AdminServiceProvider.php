@@ -1,6 +1,6 @@
 <?php
 
-namespace Encore\Admin;
+namespace ibrhaim13\Admin;
 
 use Encore\Admin\Layout\Content;
 use Illuminate\Routing\Router;

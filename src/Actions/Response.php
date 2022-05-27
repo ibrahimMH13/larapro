@@ -1,6 +1,6 @@
 <?php
 
-namespace Encore\Admin\Actions;
+namespace ibrhaim13\Admin\Actions;
 
 use Illuminate\Validation\ValidationException;
 

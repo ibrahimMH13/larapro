@@ -1,6 +1,6 @@
 <?php
 
-namespace Encore\Admin\Traits;
+namespace Ibrhaim13\Admin\Traits;
 
 use Encore\Admin\Form;
 use Encore\Admin\Grid;

@@ -1,8 +1,8 @@
 <?php
 
-namespace Encore\Admin\Console;
+namespace ibrhaim13\Admin\Console;
 
-use Encore\Admin\Admin;
+use ibrhaim13\Admin\Admin;
 use Illuminate\Console\Command;
 use Illuminate\Support\Arr;
 

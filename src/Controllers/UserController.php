@@ -1,10 +1,10 @@
 <?php
 
-namespace Encore\Admin\Controllers;
+namespace Ibrhaim13\Admin\Controllers;
 
-use Encore\Admin\Form;
-use Encore\Admin\Grid;
-use Encore\Admin\Show;
+use Ibrhaim13\Admin\Form;
+use Ibrhaim13\Admin\Grid;
+use Ibrhaim13\Admin\Show;
 use Illuminate\Support\Facades\Hash;
 
 class UserController extends AdminController

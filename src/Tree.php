@@ -1,9 +1,9 @@
 <?php
 
-namespace Encore\Admin;
+namespace Ibrhaim13\Admin;
 
 use Closure;
-use Encore\Admin\Tree\Tools;
+use Ibrhaim13\Admin\Tree\Tools;
 use Illuminate\Contracts\Support\Renderable;
 use Jenssegers\Mongodb\Eloquent\Model;
 

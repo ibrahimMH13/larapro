@@ -1,13 +1,13 @@
 <?php
 
-namespace Encore\Admin;
+namespace Ibrhaim13\Admin;
 
 use Closure;
-use Encore\Admin\Auth\Database\Menu;
-use Encore\Admin\Controllers\AuthController;
-use Encore\Admin\Layout\Content;
-use Encore\Admin\Traits\HasAssets;
-use Encore\Admin\Widgets\Navbar;
+use Ibrhaim13\Admin\Auth\Database\Menu;
+use Ibrhaim13\Admin\Controllers\AuthController;
+use Ibrhaim13\Admin\Layout\Content;
+use Ibrhaim13\Admin\Traits\HasAssets;
+use Ibrhaim13\Admin\Widgets\Navbar;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Support\Arr;
 use Illuminate\Support\Facades\Auth;

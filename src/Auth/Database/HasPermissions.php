@@ -1,6 +1,6 @@
 <?php
 
-namespace Encore\Admin\Auth\Database;
+namespace ibrhaim13\Admin\Auth\Database;
 
 use Illuminate\Support\Collection;
 
