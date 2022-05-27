@@ -51,10 +51,10 @@
     "extra": {
         "laravel": {
             "providers": [
-                "ibrhaim13\\Admin\\AdminServiceProvider"
+                "Ibrhaim13\\Admin\\AdminServiceProvider"
             ],
             "aliases": {
-                "Admin": "ibrhaim13\\Admin\\Facades\\Admin"
+                "Admin": "Ibrhaim13\\Admin\\Facades\\Admin"
             }
         }
     }
