@@ -1,6 +1,6 @@
 <?php
 
-namespace Encore\Admin\Form;
+namespace Ibrhaim13\Admin\Form;
 
 use Ibrhaim13\Admin\Form;
 use Illuminate\Support\Collection;

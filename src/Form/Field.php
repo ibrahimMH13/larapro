@@ -1522,7 +1522,7 @@ class Field implements Renderable
     /**
      * @param \Closure $callback
      *
-     * @return \Encore\Admin\Form\Field
+     * @return \Ibrhaim13\Admin\Form\Field
      */
     public function with(Closure $callback): self
     {

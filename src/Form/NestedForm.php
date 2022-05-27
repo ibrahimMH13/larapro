@@ -92,7 +92,7 @@ class NestedForm
     protected $original = [];
 
     /**
-     * @var \Encore\Admin\Form|\Encore\Admin\Widgets\Form
+     * @var \Ibrhaim13\Admin\Form|\Encore\Admin\Widgets\Form
      */
     protected $form;
 
@@ -290,7 +290,7 @@ class NestedForm
                 $value = $field->prepare($value);
             }
 
-            if (($field instanceof \Encore\Admin\Form\Field\Hidden) || $value != $field->original()) {
+            if (($field instanceof \Ibrhaim13\Admin\Form\Field\Hidden) || $value != $field->original()) {
                 if (is_array($columns)) {
                     foreach ($columns as $name => $column) {
                         Arr::set($prepared, $column, $value[$name]);
