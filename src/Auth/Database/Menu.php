@@ -1,9 +1,9 @@
 <?php
 
-namespace ibrhaim13\Admin\Auth\Database;
+namespace Ibrhaim13\Admin\Auth\Database;
 
-use ibrhaim13\Admin\Traits\DefaultDatetimeFormat;
-use ibrhaim13\Admin\Traits\ModelTree;
+use Ibrhaim13\Admin\Traits\DefaultDatetimeFormat;
+use Ibrhaim13\Admin\Traits\ModelTree;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\Relations\BelongsToMany;
 use Illuminate\Support\Facades\DB;

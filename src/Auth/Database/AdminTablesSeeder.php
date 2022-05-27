@@ -1,6 +1,6 @@
 <?php
 
-namespace ibrhaim13\Admin\Auth\Database;
+namespace Ibrhaim13\Admin\Auth\Database;
 
 use Illuminate\Database\Seeder;
 use Illuminate\Support\Facades\Hash;

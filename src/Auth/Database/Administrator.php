@@ -1,8 +1,8 @@
 <?php
 
-namespace ibrhaim13\Admin\Auth\Database;
+namespace Ibrhaim13\Admin\Auth\Database;
 
-use ibrhaim13\Admin\Traits\DefaultDatetimeFormat;
+use Ibrhaim13\Admin\Traits\DefaultDatetimeFormat;
 use Illuminate\Auth\Authenticatable;
 use Illuminate\Contracts\Auth\Authenticatable as AuthenticatableContract;
 use Illuminate\Database\Eloquent\Model;
