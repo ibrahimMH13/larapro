@@ -25,7 +25,7 @@ class Admin
      *
      * @var string
      */
-    const VERSION = '1.8.17';
+    const VERSION = '1.9';
 
     /**
      * @var Navbar
@@ -69,14 +69,14 @@ class Admin
      */
     public static function getLongVersion()
     {
-        return sprintf('Laravel-admin <comment>version</comment> <info>%s</info>', self::VERSION);
+        return sprintf('larapro <comment>version</comment> <info>%s</info>', self::VERSION);
     }
 
     /**
      * @param $model
      * @param Closure $callable
      *
-     * @return \Encore\Admin\Grid
+     * @return \ibrhaim13\Admin\Grid
      *
      * @deprecated since v1.6.1
      */
@@ -89,7 +89,7 @@ class Admin
      * @param $model
      * @param Closure $callable
      *
-     * @return \Encore\Admin\Form
+     * @return \ibrhaim13\Admin\Form
      *
      *  @deprecated since v1.6.1
      */
@@ -104,7 +104,7 @@ class Admin
      * @param $model
      * @param Closure|null $callable
      *
-     * @return \Encore\Admin\Tree
+     * @return \ibrhaim13\Admin\Tree
      */
     public function tree($model, Closure $callable = null)
     {
@@ -129,7 +129,7 @@ class Admin
     /**
      * @param Closure $callable
      *
-     * @return \Encore\Admin\Layout\Content
+     * @return \ibrhaim13\Admin\Layout\Content
      *
      * @deprecated since v1.6.1
      */
@@ -276,7 +276,7 @@ class Admin
     /**
      * Get navbar object.
      *
-     * @return \Encore\Admin\Widgets\Navbar
+     * @return \ibrhaim13\Admin\Widgets\Navbar
      */
     public function getNavbar()
     {
