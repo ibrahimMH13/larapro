@@ -92,7 +92,7 @@ class NestedForm
     protected $original = [];
 
     /**
-     * @var \Ibrhaim13\Admin\Form|\Encore\Admin\Widgets\Form
+     * @var \Ibrhaim13\Admin\Form|
      */
     protected $form;
 
