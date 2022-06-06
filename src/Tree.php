@@ -79,9 +79,8 @@ class Tree implements Renderable
     /**
      * Menu constructor.
      *
-     * @param Model|null $model
      */
-    public function __construct(Model $model = null, \Closure $callback = null)
+    public function __construct($model = null, \Closure $callback = null)
     {
         $this->model = $model;
 
